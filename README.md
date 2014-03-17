@@ -1,21 +1,12 @@
-# Light Table ClojureScript Tutorial
+# Light Table Clojure Tutorial
 
 An introduction to the
-[ClojureScript](http://github.com/clojure/clojurescript) programming
+[Clojure](http://clojure.org/) programming
 language aimed at [Light Table](http://www.lighttable.com) users. If you have
 an old version of Light Table, you may need to upgrade to 0.6.X or newer.
 
 Install [Leiningen](http://leiningen.org). You can then open
-`lt-cljs-tutorial.cljs` in Light Table and evaluate it interactively
-by adding a Light Table UI connection.
+`lt-clj-tutorial.clj` in Light Table and evaluate it interactively.
 
-I hope this can be a kind of ClojureScript wiki of sorts for Light
-Table users.  Pull requests welcome.
-
-For users of editors/IDEs supporting [nREPL][1] there is
-[a port of this tutorial][2] targeting those development environments
-as well.
-
-[1]: https://github.com/clojure/tools.nrepl
-[2]: https://github.com/magomimmo/modern-cljs/tree/master/cljs-tutorial
-
+This tutorial was originally written for ClojureScript and has been adopted to
+Clojure.
